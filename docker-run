@@ -1,3 +1,6 @@
+# docker run 参数解释
+
+```
 -a, --attach=[]            登录容器（必须是以docker run -d启动的容器）  
 -w, --workdir=""           指定容器的工作目录  
 -c, --cpu-shares=0         设置容器CPU权重，在CPU共享场景使用    
@@ -34,3 +37,5 @@
                                   always：容器退出时总是重启    
 --rm=false                 指定容器停止后自动删除容器(不支持以docker run -d启动的容器)    
 --sig-proxy=true           设置由代理接受并处理信号，但是SIGCHLD、SIGSTOP和SIGKILL不能被代理
+```
+
