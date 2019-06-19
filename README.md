@@ -1,7 +1,7 @@
 # DevOps
 docker快速搭配一套ci/cd的环境
 
-![img](C:/Users/3958/AppData/Local/YNote/data/li114228@126.com/a85b9567e75a41b4b7921651cf3b00db/clipboard.png)
+![img](https://github.com/cyneck/DevOps/blob/master/clipboard.png)
 
 **安装gitlab-ce代码仓库**
 
